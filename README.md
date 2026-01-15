@@ -11,7 +11,7 @@ Ce dépôt contient les plans techniques, le code et les protocoles biologiques 
 
 L'architecture repose sur trois piliers symbiotiques :
 
-| Pilier | Technologie | Fonction |
+| Pilier | Technologie | Fonction | 
 | :--- | :--- | :--- |
 | **1. L'Intelligence** | **Modèle de Kuramoto** (Python) | Optimisation mathématique des guildes de permaculture par synchronisation d'oscillateurs. |
 | **2. Le Carburant** | **Bioréacteurs Mycéliens** (Low-Tech) | Conversion rapide de déchets en protéines via frustration géométrique et réseaux fongiques. |
@@ -19,7 +19,7 @@ L'architecture repose sur trois piliers symbiotiques :
 
 ---
 
-## 📂 Contenu du Repo
+## 📂 Contenu du Repo (in docs/)
 
 ### 1. `/kuramoto-guilds` (L'Optimisateur)
 *Modélisation des plantes comme des oscillateurs couplés pour maximiser la symbiose.*
@@ -85,9 +85,5 @@ Le savoir de survie appartient au Commons. Pas de brevets. Pas de frontières.
 ---
 
 **[Lichen-Collectives]** - *Un devient tous. Tous, Un.*
-
-```
-
-C'est clean, c'est pro, et ça pose les bases. Tu valides ?
 
 ```
