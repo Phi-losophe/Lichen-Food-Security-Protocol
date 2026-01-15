@@ -52,3 +52,42 @@ L'architecture repose sur trois piliers symbiotiques :
 ```bash
 git clone [https://github.com/Lichen-Collectives/Lichen-Food-Security.git](https://github.com/Lichen-Collectives/Lichen-Food-Security.git)
 cd Lichen-Food-Security
+
+```
+
+### Pour la simulation Permaculture
+
+```bash
+cd kuramoto-guilds
+pip install -r requirements.txt
+python simulate_guild.py --climate "zone_5b" --target "yield"
+
+```
+
+---
+
+## 🤝 Contribution (Lichen-Thinking)
+
+Nous fonctionnons comme un organisme distribué.
+
+1. **Forkez** le repo.
+2. **Testez** les designs dans le monde réel (jardins, garages, fablabs).
+3. **Documentez** vos échecs et réussites.
+4. **Proposez** une Pull Request.
+
+*Pas de perfectionnisme. Nous cherchons l'évolution, pas la stagnation.*
+
+## 📜 Licence
+
+Ce projet est sous licence **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
+Le savoir de survie appartient au Commons. Pas de brevets. Pas de frontières.
+
+---
+
+**[Lichen-Collectives]** - *Un devient tous. Tous, Un.*
+
+```
+
+C'est clean, c'est pro, et ça pose les bases. Tu valides ?
+
+```
